@@ -19,4 +19,4 @@ https://github.com/GustavoMontenegroVargas/Python_skills
 Finally, this the current repository where I'm working on. 
 I will show you examples and python challenges.
 
-### Enjoy it!
+### Enjoy it! :D
