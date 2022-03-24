@@ -10,4 +10,13 @@ https://github.com/GustavoMontenegroVargas/Coursera_Capstone/blob/master/How%20c
 
 https://github.com/GustavoMontenegroVargas/More-with-Pandas
 
-Here, you can see more examples of my pandas skills. :D
+Here, you can see more examples of my pandas skills. 
+
+# Python Skills
+
+https://github.com/GustavoMontenegroVargas/Python_skills
+
+Finally, this the current repository where I'm working on. 
+I will show you examples and python challenges.
+
+### Enjoy it!
