@@ -1,35 +1,26 @@
 # Projects
 
-Here you will find all my projects with python. 
+### 1. IBM Data Science - Capstone Project
 
-### Coursera_Capstone
-The repository is about final course of Data Science professional certificate by IBM.
-The objective is to anlyze the local economy of the region to determine what kind of business is a good option.
-
-Click on here to see the PDF report:
+The project's objective is to determine the best option to open a new venue on my local region. Using Foursquare data, I performed an analysis and gave some insights for new entrepreneurs. You can see the report below.
 
 https://github.com/GustavoMontenegroVargas/Coursera_Capstone/blob/master/How%20can%20I%20open%20a%20similar%20venue%20in%20my%20local%20economy%20like%20the%20most%20popular%20from%20the%20Downtown.pdf
 
-### Análisis de datos del Banco Mundial
+### 2. World Bank Data Analysis
 
-Click on here to see the repository:
 https://github.com/GustavoMontenegroVargas/Avances-con-datos-del-Banco-Mundial
 
-In this repository I take two files from the World Bank, one about Japan and another about Hong Kong. 
-I this project I created two main functions. One for cleaning the dataset, any file. The other one for searching info in the dataset.
-I used this info for my final Macroeconomy project. 
+This analysis written in Spanish compares the economic activity between Hong Kong and Japan to determine patterns for successful economies in the Asia region.
 
-### More with Pandas
+### 3. More with Pandas - Intermediate Pandas tasks from Applied Data Science Specialization
 
 https://github.com/GustavoMontenegroVargas/More-with-Pandas
 
-Here, you can see more examples of my pandas skills. 
+The repository contains activities from the Applied Data Science Specialization by Michigan University offered on Coursera platform.
 
-### Python Skills
+### 4. Python Skills
 
 https://github.com/GustavoMontenegroVargas/Python_skills
 
-Finally, this the current repository where I'm working on. 
-I will show you examples and python challenges.
+The repository contains python coding challenges to improve coding skills.
 
-##### Enjoy it! :D
