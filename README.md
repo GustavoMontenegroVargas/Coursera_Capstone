@@ -1,4 +1,4 @@
-# Python repositories
+# Projects
 
 Here you will find all my projects with python. 
 
