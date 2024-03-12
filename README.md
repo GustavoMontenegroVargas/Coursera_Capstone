@@ -32,7 +32,7 @@ The repository contains python coding challenges to improve coding skills.
 
 Please check this avhievement. I have worked on internal projects, but I'm proud to share this one with you. 
 
-### Model Deployment with SageMaker for different industries at AWS
+### 5. Model Deployment with SageMaker for different industries at AWS
 https://huggingface.co/Salesforce/blip2-opt-2.7b/discussions/25
 
 Different teams create custom models and deploy them on SageMaker Service to add a competitive advantage to their
